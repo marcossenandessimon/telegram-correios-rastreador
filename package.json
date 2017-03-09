@@ -1,0 +1,17 @@
+{
+  "name": "correiobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-telegram-bot-api": "^0.23.3",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
